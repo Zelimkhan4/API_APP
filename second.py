@@ -1,4 +1,4 @@
-from utils import get_nearest_pharmacy
+from utils import get_nearest_pharmacy, get_distance
 import requests
 import sys
 from PIL import Image
@@ -34,6 +34,12 @@ if objects:
     }
 
     response = requests.get(static_map_server, params=params)
+    distance = get_distance(coords, f"{pos[0]},{pos[1]}")
+    metaData = pharmacy["properties"]["CompanyMetaData"]
+    address = metaData.get("address", None)
+    time = metaData.get("Hours", dict()).get("text", None)
+    name = metaData.get("name", None)
+    print(f"{name}\n{address}\n{time}\nРасстояние - {round(distance)} метров")
     Image.open(BytesIO(response.content)).show()
 else:
     print(f"Объект по адресу: '{obj}' не найден!")
