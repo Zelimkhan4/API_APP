@@ -1,0 +1,656 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": "Grozny",
+          "results": "10",
+          "found": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Чеченская Республика, Грозный",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Чеченская Республика, Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Северо-Кавказский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Чеченская Республика"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Грозный"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Чеченская Республика, Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Чеченская Республика",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Грозный",
+                        "Locality": {
+                          "LocalityName": "Грозный"
+                        }
+                      }
+
+                }
+              }
+            },
+            "name": "Грозный",
+            "description": "Чеченская Республика, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "45.432412 43.178339",
+                "upperCorner": "45.815463 43.406213"
+              }
+            },
+            "Point": {
+              "pos": "45.692421 43.318366"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Республика Адыгея, Майкопский район, Победенское сельское поселение, хутор Грозный",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Республика Адыгея, Майкопский район, Победенское сельское поселение, хутор Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Республика Адыгея"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Майкопский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Победенское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "хутор Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Республика Адыгея, Майкопский район, Победенское сельское поселение, хутор Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Республика Адыгея",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Майкопский район",
+                        "Locality": {
+                          "LocalityName": "хутор Грозный"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "хутор Грозный",
+            "description": "Победенское сельское поселение, Майкопский район, Республика Адыгея, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "40.115823 44.547678",
+                "upperCorner": "40.147102 44.575814"
+              }
+            },
+            "Point": {
+              "pos": "40.136727 44.553774"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Северо-Кавказская железная дорога, станция Грозный",
+                "kind": "railway_station",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Северо-Кавказская железная дорога, станция Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "route",
+                      "name": "Северо-Кавказская железная дорога"
+                    },
+                    {
+                      "kind": "railway_station",
+                      "name": "станция Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Северо-Кавказская железная дорога, станция Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "Country": {
+                      "Locality": {}
+                    }
+                  }
+                }
+              }
+            },
+            "name": "станция Грозный",
+            "description": "Северо-Кавказская железная дорога, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "45.677266 43.30232",
+                "upperCorner": "45.693723 43.314339"
+              }
+            },
+            "Point": {
+              "pos": "45.685495 43.30833"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Республика Адыгея, Майкопский район, Кировское сельское поселение, хутор Грозный",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Республика Адыгея, Майкопский район, Кировское сельское поселение, хутор Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Республика Адыгея"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Майкопский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Кировское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "хутор Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Республика Адыгея, Майкопский район, Кировское сельское поселение, хутор Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Республика Адыгея",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Майкопский район",
+                        "Locality": {
+                          "LocalityName": "хутор Грозный"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "хутор Грозный",
+            "description": "Кировское сельское поселение, Майкопский район, Республика Адыгея, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "40.184041 44.640801",
+                "upperCorner": "40.204101 44.651119"
+              }
+            },
+            "Point": {
+              "pos": "40.194489 44.64486"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Ленинградская область, Выборгский район, Селезнёвское сельское поселение, остров Грозный",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Ленинградская область, Выборгский район, Селезнёвское сельское поселение, остров Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Северо-Западный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Ленинградская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Выборгский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Селезнёвское сельское поселение"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "остров Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Ленинградская область, Выборгский район, Селезнёвское сельское поселение, остров Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Ленинградская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Выборгский район",
+                        "Locality": {
+                          "Premise": {
+                            "PremiseName": "остров Грозный"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "остров Грозный",
+            "description": "Селезнёвское сельское поселение, Выборгский район, Ленинградская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "27.790506 60.50756",
+                "upperCorner": "27.838072 60.526301"
+              }
+            },
+            "Point": {
+              "pos": "27.816746 60.518203"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, ручей Грозный",
+                "kind": "hydro",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, ручей Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Дальневосточный федеральный округ"
+                    },
+                    {
+                      "kind": "hydro",
+                      "name": "ручей Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, ручей Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "Locality": {
+                      "Premise": {
+                        "PremiseName": "ручей Грозный"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "ручей Грозный",
+            "description": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "137.154778 60.122537",
+                "upperCorner": "149.111677 75.141348"
+              }
+            },
+            "Point": {
+              "pos": "141.410681 64.958631"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Брянская область, Новозыбковский городской округ, посёлок Грозный",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Брянская область, Новозыбковский городской округ, посёлок Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Брянская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Новозыбковский городской округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "посёлок Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Брянская область, Новозыбковский городской округ, посёлок Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Брянская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Новозыбковский городской округ",
+                        "Locality": {
+                          "LocalityName": "посёлок Грозный"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "посёлок Грозный",
+            "description": "Новозыбковский городской округ, Брянская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "31.677534 52.701175",
+                "upperCorner": "31.690632 52.708219"
+              }
+            },
+            "Point": {
+              "pos": "31.684092 52.704962"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Брянская область, Карачевский район, Бошинское сельское поселение, урочище Грозный",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Брянская область, Карачевский район, Бошинское сельское поселение, урочище Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Брянская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Карачевский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Бошинское сельское поселение"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "урочище Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Брянская область, Карачевский район, Бошинское сельское поселение, урочище Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Брянская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Карачевский район",
+                        "Locality": {
+                          "Premise": {
+                            "PremiseName": "урочище Грозный"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "урочище Грозный",
+            "description": "Бошинское сельское поселение, Карачевский район, Брянская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "34.879112 52.922523",
+                "upperCorner": "34.944995 52.962322"
+              }
+            },
+            "Point": {
+              "pos": "34.912053 52.942427"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Орловская область, Сосковский район, Алпеевское сельское поселение, урочище Грозный",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Орловская область, Сосковский район, Алпеевское сельское поселение, урочище Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Орловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Сосковский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Алпеевское сельское поселение"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "урочище Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Орловская область, Сосковский район, Алпеевское сельское поселение, урочище Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Орловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Сосковский район",
+                        "Locality": {
+                          "Premise": {
+                            "PremiseName": "урочище Грозный"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "урочище Грозный",
+            "description": "Алпеевское сельское поселение, Сосковский район, Орловская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "35.525432 52.778622",
+                "upperCorner": "35.591314 52.818554"
+              }
+            },
+            "Point": {
+              "pos": "35.558373 52.798593"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Ставропольский край, Новоселицкий муниципальный округ, урочище Грозный",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Ставропольский край, Новоселицкий муниципальный округ, урочище Грозный",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Северо-Кавказский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Ставропольский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Новоселицкий муниципальный округ"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "урочище Грозный"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Ставропольский край, Новоселицкий муниципальный округ, урочище Грозный",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Ставропольский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Новоселицкий муниципальный округ",
+                        "Locality": {
+                          "Premise": {
+                            "PremiseName": "урочище Грозный"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "урочище Грозный",
+            "description": "Новоселицкий муниципальный округ, Ставропольский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "43.199057 44.810055",
+                "upperCorner": "43.264939 44.856935"
+              }
+            },
+            "Point": {
+              "pos": "43.231998 44.8335"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
